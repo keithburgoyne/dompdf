@@ -4,7 +4,7 @@
 
 require_once 'PEAR/PackageFileManager2.php';
 
-$version = '0.5.2';
+$version = '0.6.0';
 $notes = <<<EOT
 PEAR package of dompdf
 EOT;
